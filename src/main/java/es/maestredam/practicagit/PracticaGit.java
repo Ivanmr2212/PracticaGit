@@ -12,5 +12,7 @@ public class PracticaGit {
 
     public static void main(String[] args) {
         System.out.println("Practica Github");
+        System.out.println("");
+        System.out.println("Cambios hechos para el punto 6");
     }
 }
